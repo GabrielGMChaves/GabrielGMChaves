@@ -5,8 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGMChaves&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGMChaves&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Full-stack technologies
 <!--
 **GabrielGMChaves/GabrielGMChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
