@@ -1,7 +1,10 @@
-# Hi there 👋
+# Hello👋
 
-I'm Gabriel Miranda Chaves, a Software Analysis and Development student
-https://gabrielgmchaves.github.io/Portfolio-Pessoal/
+I'm Gabriel
+I'm currently learning Data Science and Machine Learning, feel free to visit my 2024 repository, which I'm updating daily.
+I currently work as a Technical Support Consultant for Cohesive
+I mainly work with Python, Java and SQL on a daily basis.
+
 <div>
   <a href = "mailto:bielzimchaves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-miranda-chaves-b7b9b6206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
