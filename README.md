@@ -1,8 +1,8 @@
 # Hello👋
 
 - I'm Gabriel
-- I'm currently learning Data Science and Machine Learning, feel free to visit my 2024 repository, which I'm updating daily.
-- I currently work as a Technical Support Consultant for Cohesive
+- Learning Data Science and Machine Learning, check out my [2024 Repository](https://github.com/GabrielGMChaves/2024).
+- Technical Support Consultant for Cohesive.
 - I mainly work with Python, Java and SQL on a daily basis.
 
 <div>
